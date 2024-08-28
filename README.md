@@ -17,8 +17,11 @@ Com um instalador simples, basta selecionar o  sistema operacional, e executa-l�
 # 🚀 Execução
 
 Terminal: O Go pode ser executado diretamente no terminal.
+
 Visual Studio Code: É possível utilizar o Go no [Visual  Studio Code](https://code.visualstudio.com/)
+
 No VSC, você pode executar o Go diretamente no terminal integrado.
+
 Ao criar o seu primeiro arquivo .go (todos os arquivos Go têm essa extensão), o VSC oferece a opção de instalar automaticamente todos os pacotes necessários para essa linguagem.
 
 
