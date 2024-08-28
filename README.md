@@ -2,10 +2,11 @@
 
   Curso de formação em go, realizado pela Digital Innovation One.
 
-![Screenshot_2](https://github.com/user-attachments/assets/830a747d-f455-435e-a19d-cec3411680b1)
+![Screenshot_2-removebg-preview](https://github.com/user-attachments/assets/5e7f843a-e558-48d6-8436-94ee603af8c1)
+
 
   
-🛠️ Download
+# 🛠️ Download
 
 Realizado [download](https://go.dev/) 
 
@@ -13,7 +14,8 @@ Com um instalador simples, basta selecionar o  sistema operacional, e executa-l�
 
 
 
-🚀 Execução
+# 🚀 Execução
+
 Terminal: O Go pode ser executado diretamente no terminal.
 Visual Studio Code: É possível utilizar o Go no [Visual  Studio Code](https://code.visualstudio.com/)
 No VSC, você pode executar o Go diretamente no terminal integrado.
